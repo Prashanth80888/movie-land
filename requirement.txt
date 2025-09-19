@@ -1,0 +1,9 @@
+To create react app you needs to run this
+npm create-react-app <app name>
+
+After creating you needs to got to the your folder directory to go 
+you need to type cd<app name>
+
+And finally to run you project you needs to type
+
+npm start
